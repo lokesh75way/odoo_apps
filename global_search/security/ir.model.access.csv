@@ -1,0 +1,12 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_global_search.global_search,global_search.global_search,model_global_search,base.group_user,1,1,1,1
+access_global.search.result.partner,global.search.result.partner,model_global_search_result_partner,base.group_user,1,1,1,1
+access_global.search.result.employee,global.search.result.employee,model_global_search_result_employee,base.group_user,1,1,1,1
+access_global.search.result.account.invoice,global.search.result.account.invoice,model_global_search_result_account_invoice,base.group_user,1,1,1,1
+access_global.global.search.result.account.payment,global.global.search.result.account.payment,model_global_search_result_account_payment,base.group_user,1,1,1,1
+access_global.search.result.purchase,global.search.result.purchase,model_global_search_result_purchase,base.group_user,1,1,1,1
+access_global.search.result.sale.order,global.search.result.sale.order,model_global_search_result_sale_order,base.group_user,1,1,1,1
+access_global.search.result.inventory.product,global.search.result.inventory.product,model_global_search_result_inventory_product,base.group_user,1,1,1,1
+access_global.search.result.inventory.transfer,global.search.result.inventory.transfer,model_global_search_result_inventory_transfer,base.group_user,1,1,1,1
+access_global.search.result.inventory.product.varient,global.search.result.inventory.product.varient,model_global_search_result_inventory_product_varient,base.group_user,1,1,1,1
+access_global.search.result.manufacturing.order,global.search.result.manufacturing.order,model_global_search_result_manufacturing_order,base.group_user,1,1,1,1
