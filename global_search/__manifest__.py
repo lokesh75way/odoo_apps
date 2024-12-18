@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "global_search",
+    'name': "quantum.global_search",
 
     'summary': "Global Search",
 
