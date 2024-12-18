@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<odoo>
-    <!-- Top-level menu item -->
-    <menuitem name="Global Search" id="menu_global_search" web_icon="global_search,static/description/icon.png" sequence="100" />
-
-    <!-- Sub-menu item -->
-    <menuitem name="Dashboard" id="menu_global_search_dashboard" parent="menu_global_search" action="action_global_search_view" sequence="1" />
-</odoo>
